@@ -53,6 +53,10 @@ $ sudo yum -y install python3-pip -y
 $ pip3 install ansible --user
 $ pip3 install boto3 --user
 ```
+### The below link is to install dependencies. When ansible is installed using pip it doesnot download the dependencies. 
+https://raw.githubusercontent.com/ansible/ansible/devel/examples/ansible.cfg
+
+https://raw.githubusercontent.com/ansible/ansible/devel/examples/hosts
 
 #### Clone terraform and ansible scripts
 ``` sh
