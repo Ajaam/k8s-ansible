@@ -59,6 +59,7 @@ https://raw.githubusercontent.com/ansible/ansible/devel/examples/ansible.cfg
 https://raw.githubusercontent.com/ansible/ansible/devel/examples/hosts
 
 #### Clone terraform and ansible scripts
+## yum install git 
 ``` sh
  git clone https://github.com/LandmakTechnology/k8s-ansible.git
  cd Kuberentes_Cluster_Terraform_Ansible
